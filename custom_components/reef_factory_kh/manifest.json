@@ -1,11 +1,11 @@
 {
   "domain": "reef_factory_kh",
   "name": "Reef Factory KH Keeper",
-  "version": "1.0.0",
   "codeowners": ["@realiztw"],
   "config_flow": true,
   "documentation": "https://github.com/realiztw/reef-factory-kh",
-  "issue_tracker": "https://github.com/realiztw/reef-factory-kh/issues",
   "iot_class": "cloud_polling",
-  "requirements": []
+  "issue_tracker": "https://github.com/realiztw/reef-factory-kh/issues",
+  "requirements": [],
+  "version": "1.0.0"
 }
